@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("image/texture-paper.webp");
+    background: url("image/texture-paper.png");
     background-size: 280px 280px;
 }
 
